@@ -1,6 +1,6 @@
-# AI Code Review Assignment – Eskalate
+# AI Code Review Assignment – Torug.ai
 
-This repository contains the **AI Code Review Assignment** for candidates applying to the **AI Training Software Engineer** role at **Eskalate**.
+This repository contains the **AI Code Review Assignment** for candidates applying to the **AI Training Software Engineer** role at **Torug.ai**.
 
 You should **clone this repository**, complete the tasks locally, and then push your work to **your own public GitHub repository** for submission.
 
@@ -13,7 +13,7 @@ You should **clone this repository**, complete the tasks locally, and then push 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/MoeYasir/ai-code-review-assignment-template
+git clone https://github.com/metunlp/code-assignment-template
 ```
 ### Step 2: Create Your Own Public Repository
 Create a new public GitHub repository under your own account.
@@ -55,7 +55,7 @@ Once complete:
 - Once your repository is ready, submit the link to your **public GitHub repository** using the form below:
 
 **Assignment Submission Form:**  
-https://forms.gle/rDbg7LghgyTcWR2v5
+https://forms.gle/3ZBZNgwKFugn4EAw9
 
 #### Verify that:
 
@@ -80,5 +80,5 @@ Submit the link to your public repository using the Google Form provided in the 
 - Repositories modified after the submission deadline may be disqualified
 
 
-### Good luck, and thank you for your interest in Eskalate.
+### Good luck, and thank you for your interest in Torug.ai
 
